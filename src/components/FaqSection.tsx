@@ -23,7 +23,7 @@ const faqs = [
     question: 'Why choose epoxy for my floors?',
     answer: (
       <>
-        Epoxy flooring is tough, safe, and attractive. It protects your concrete, resists spills and scratches, and makes spaces brighter by reflecting light. It's a smart choice for homes and businesses.
+        Epoxy flooring is tough, safe, and attractive. It protects your concrete, resists spills and scratches, and makes spaces brighter by reflecting light. It&apos;s a smart choice for homes and businesses.
       </>
     ),
   },
@@ -39,7 +39,7 @@ const faqs = [
     question: 'Where do you offer your services?',
     answer: (
       <>
-        We serve Toronto, the Greater Toronto Area (GTA), and all of Ontario. From downtown Toronto to the surrounding suburbs and beyond, we're here to help with your epoxy flooring needs.
+        We serve Toronto, the Greater Toronto Area (GTA), and all of Ontario. From downtown Toronto to the surrounding suburbs and beyond, we&apos;re here to help with your epoxy flooring needs.
       </>
     ),
   },
