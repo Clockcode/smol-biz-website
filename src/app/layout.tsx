@@ -6,6 +6,8 @@ import "@fontsource/inter/600.css";
 import "@fontsource/inter/700.css";
 import "./globals.css";
 import Header from "@/components/Header";
+import Footer from "@/components/Footer";
+import FloatingCallButton from "@/components/FloatingCallButton";
 import { siteConfig } from "@/config/site";
 
 const inter = Inter({
@@ -51,11 +53,13 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body className={`${inter.className} antialiased`}>
-        <div className="flex min-h-screen flex-col">
+        <div className="flex flex-col min-h-screen">
           <Header />
           <div className="pt-20">
             {children}
           </div>
+          <Footer />
+          <FloatingCallButton />
         </div>
       </body>
     </html>

@@ -1,4 +1,6 @@
 General TODO:
+Header will be gif
+Make sure each page has proper process steps based on toronto epoxy website
 - [ ] Get Domain name
 - [ ] Get Business Gmail
 - [ ] Design Logo

@@ -73,41 +73,81 @@ export const siteConfig: SiteConfig = {
   },
   services: [
     {
-      title: "Residential Epoxy Flooring",
-      description: "Transform your garage, basement, or living space with durable and attractive epoxy flooring solutions.",
-      image: "/images/residential-epoxy.jpg",
-    },
-    {
       title: "Commercial Epoxy Flooring",
-      description: "High-performance epoxy flooring for warehouses, retail spaces, and industrial facilities.",
-      image: "/images/commercial-epoxy.jpg",
+      description: "Durable, high-performance flooring solutions for retail spaces, offices, and commercial buildings. Perfect for high-traffic areas.",
+      image: "/images/commercial_service.jpeg",
     },
     {
-      title: "Decorative Epoxy Systems",
-      description: "Custom designs, metallic finishes, and unique patterns to match your aesthetic preferences.",
-      image: "/images/decorative-epoxy.jpg",
+      title: "Residential Epoxy Flooring",
+      description: "Transform your home with beautiful, long-lasting epoxy floors. Ideal for garages, basements, and living spaces.",
+      image: "/images/residential_service.jpeg",
+    },
+    {
+      title: "Industrial Epoxy Flooring",
+      description: "Heavy-duty flooring solutions for warehouses, factories, and industrial facilities. Built to withstand extreme conditions.",
+      image: "/images/industrial_service.jpeg",
+    },
+    {
+      title: "Garage Floor Epoxy",
+      description: "Protect and enhance your garage floor with our premium epoxy coatings. Resistant to oil, chemicals, and heavy loads.",
+      image: "/images/garage_flooring.jpeg",
+    },
+    {
+      title: "Concrete Polishing",
+      description: "Professional concrete polishing services for a sleek, modern look. Perfect for both residential and commercial spaces.",
+      image: "/images/concrete_polishing_service.jpeg",
+    },
+    {
+      title: "Metallic Epoxy",
+      description: "Create stunning, unique floors with our metallic epoxy systems. Perfect for adding a touch of luxury to any space.",
+      image: "/images/metallic_service.jpeg",
+    },
+    {
+      title: "Epoxy Concrete Repair",
+      description: "Expert repair and restoration services for damaged concrete floors. We'll make your floors look new again.",
+      image: "/images/basement_service.jpeg",
+    },
+    {
+      title: "Hotel & Hospitality Epoxy Flooring",
+      description: "Elegant and durable flooring solutions for hotels, resorts, and hospitality venues. Designed for high-end aesthetics.",
+      image: "/images/hotel_service.jpg",
+    },
+    {
+      title: "Restaurant & Kitchen Epoxy Flooring",
+      description: "Food-safe, slip-resistant flooring for restaurants and commercial kitchens. Easy to clean and maintain.",
+      image: "/images/restaurant_service.jpg",
+    },
+    {
+      title: "Airports & Hangars Epoxy Flooring",
+      description: "Heavy-duty, chemical-resistant flooring for aviation facilities. Built to handle aircraft traffic and maintenance.",
+      image: "/images/airport_service.jpg",
+    },
+    {
+      title: "Institutional Epoxy Flooring",
+      description: "Durable, low-maintenance flooring for schools, hospitals, and government buildings. Perfect for public spaces.",
+      image: "/images/institutional_service.jpg",
     },
   ],
   benefits: [
     {
-      title: "20+ Years Experience",
-      description: "Trusted by homeowners and businesses across Toronto for over two decades.",
-      icon: "🏗️",
+      title: "Quality Results",
+      description: "Our licensed experts deliver top-notch floors with years of experience and skill.",
+      icon: "🛡️",
     },
     {
-      title: "Premium Materials",
-      description: "We use only the highest quality epoxy products and materials for lasting results.",
-      icon: "✨",
+      title: "Top Rated Company",
+      description: "We're one of the most trusted flooring companies, known for excellent service.",
+      icon: "⭐",
     },
     {
-      title: "Expert Installation",
-      description: "Our certified technicians ensure flawless application and proper curing.",
-      icon: "🏗️",
+      title: "Affordable Solutions",
+      description: "Enjoy quality flooring at prices that fit your budget, with flexible options.",
+      icon: "💲",
     },
     {
-      title: "5-Year Warranty",
-      description: "Peace of mind with our comprehensive warranty on materials and workmanship.",
-      icon: "✅",
+      title: "Fast Response",
+      description: "Call us and our team will respond quickly to help with your flooring needs.",
+      icon: "⚡",
     },
   ],
   seo: {
