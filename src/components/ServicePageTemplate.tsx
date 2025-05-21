@@ -128,8 +128,8 @@ export default function ServicePageTemplate({
       {/* CTA */}
       <section className="py-12 bg-blue-600 text-white text-center">
         <h3 className="text-2xl font-bold mb-4">Contact us today for a free quote!</h3>
-        <a href="tel:+1-917-306-3626" className="inline-block bg-white text-blue-700 font-bold px-8 py-3 rounded-lg shadow hover:bg-gray-100 transition-colors">
-          Call us at 917-306-3626
+        <a href="tel:+1-416-901-0000" className="inline-block bg-white text-blue-700 font-bold px-8 py-3 rounded-lg shadow hover:bg-gray-100 transition-colors">
+          Call us at 416-901-0000
         </a>
         <Link href="/contact" className="ml-4 inline-block bg-white text-blue-700 font-bold px-8 py-3 rounded-lg shadow hover:bg-gray-100 transition-colors">
           Request a Quote
